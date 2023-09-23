@@ -29,6 +29,11 @@ Laravel 10, PHP 8.1, MySQL Database
 ### Installation
 <hr> 
 
+
+- Clone this repository.
+```
+git clone https://github.com/alissar583/Dental-Clinic-Management-System.git
+
 - copy this command to terminal for install the composer.
 ```
 composer install
